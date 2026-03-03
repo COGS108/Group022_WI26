@@ -1,0 +1,385 @@
+Station,Ridership,Season,Year,Line,Neighborhood
+12th/Imperial,12936,Summer,2023,Transfer,PETCO PARK
+12th/Imperial (Bayside),2763,Summer,2023,Transfer,PETCO PARK
+24th St,2360,Summer,2023,Blue,
+25th & Commercial,1065,Summer,2023,Orange,LOGAN HEIGHTS
+32nd & Commercial,702,Summer,2023,Orange,LOGAN HEIGHTS
+47th St,504,Summer,2023,Orange,LINCOLN PARK
+70th St,319,Summer,2023,Green,
+8th St,1823,Summer,2023,Blue,
+UCSD Health East,391,Summer,2023,Green,COLLEGE EAST
+Amaya Drive,455,Summer,2023,Transfer,
+America Plaza,2224,Summer,2023,Blue,CORE-COLUMBIA
+Arnele Ave,1069,Summer,2023,Copper,
+Balboa Avenue,1155,Summer,2023,Blue,BAY PARK
+Barrio Logan,1634,Summer,2023,Blue,BARRIO LOGAN
+Beyer Blvd,2304,Summer,2023,Blue,SAN YSIDRO
+City College,4568,Summer,2023,Transfer,EAST VILLAGE
+Civic Center,2223,Summer,2023,Transfer,CORE-COLUMBIA
+Clairemont Drive,297,Summer,2023,Blue,BAY PARK
+Convention Center,944,Summer,2023,Green,MARINA
+County Center/Little Italy,1748,Summer,2023,Transfer,HARBORVIEW
+Courthouse Station,758,Summer,2023,Orange,CORE-COLUMBIA
+E St,2148,Summer,2023,Blue,
+El Cajon,2000,Summer,2023,Transfer,
+Encanto/62nd St,928,Summer,2023,Orange,ENCANTO
+Euclid Ave,1884,Summer,2023,Orange,CHOLLAS VIEW
+Executive Drive,840,Summer,2023,Blue,UNIVERSITY CITY
+Fashion Valley,1845,Summer,2023,Green,MISSION VALLEY WEST
+Fenton Parkway,510,Summer,2023,Green,MISSION VALLEY EAST
+Fifth Ave,3427,Summer,2023,Transfer,CORE-COLUMBIA
+Gaslamp Quarter,3183,Summer,2023,Green,EAST VILLAGE
+Gillespie Field,202,Summer,2023,Copper,
+Grantville,838,Summer,2023,Green,GRANTVILLE
+Grossmont,1788,Summer,2023,Transfer,
+H St,2609,Summer,2023,Blue,
+Harborside,1359,Summer,2023,Blue,BARRIO LOGAN
+Hazard Center,839,Summer,2023,Green,MISSION VALLEY EAST
+Iris Ave,3453,Summer,2023,Blue,OTAY MESA WEST
+La Mesa Blvd,700,Summer,2023,Orange,
+Lemon Grove Depot,1221,Summer,2023,Orange,
+Massachusetts Ave,452,Summer,2023,Orange,
+Middletown,410,Summer,2023,Transfer,MIDTOWN
+Mission San Diego,379,Summer,2023,Green,GRANTVILLE
+Mission Valley Center,921,Summer,2023,Green,MISSION VALLEY EAST
+Morena/Linda Vista,745,Summer,2023,Green,MORENA
+Nobel Drive,1670,Summer,2023,Blue,LA JOLLA
+Old Town,7054,Summer,2023,Transfer,OLD TOWN
+Pacific Fleet,945,Summer,2023,Blue,BARRIO LOGAN
+Palm Ave,2261,Summer,2023,Blue,PALM CITY
+Palomar St,5026,Summer,2023,Blue,
+Park/Market,3269,Summer,2023,Transfer,EAST VILLAGE
+Rio Vista,524,Summer,2023,Green,MISSION VALLEY EAST
+San Ysidro,12913,Summer,2023,Blue,BORDER
+Santa Fe Depot,2364,Summer,2023,Transfer,CORE-COLUMBIA
+Santee,936,Summer,2023,Copper,
+SDSU,1672,Summer,2023,Green,COLLEGE WEST
+Seaport Village,717,Summer,2023,Green,MARINA
+Spring St,687,Summer,2023,Orange,
+Tecolote Road,440,Summer,2023,Blue,MORENA
+UCSD Central Campus,1260,Summer,2023,Blue,TORREY PINES
+UCSD Health La Jolla,562,Summer,2023,Blue,UNIVERSITY CITY
+UTC Station,1095,Summer,2023,Blue,UNIVERSITY CITY
+VA Medical Center,920,Summer,2023,Blue,TORREY PINES
+Washington St,981,Summer,2023,Transfer,MISSION HILLS
+Stadium Station,211,Summer,2023,Green,QUALCOMM
+12th/Imperial,13184,Fall,2023,Transfer,PETCO PARK
+12th/Imperial (Bayside),3002,Fall,2023,Transfer,PETCO PARK
+24th St,2440,Fall,2023,Blue,
+25th & Commercial,1181,Fall,2023,Orange,LOGAN HEIGHTS
+32nd & Commercial,797,Fall,2023,Orange,LOGAN HEIGHTS
+47th St,546,Fall,2023,Orange,LINCOLN PARK
+70th St,382,Fall,2023,Green,
+8th St,2002,Fall,2023,Blue,
+UCSD Health East,570,Fall,2023,Green,COLLEGE EAST
+Amaya Drive,538,Fall,2023,Transfer,
+America Plaza,2392,Fall,2023,Blue,CORE-COLUMBIA
+Arnele Ave,1226,Fall,2023,Copper,
+Balboa Avenue,1247,Fall,2023,Blue,BAY PARK
+Barrio Logan,1452,Fall,2023,Blue,BARRIO LOGAN
+Beyer Blvd,2240,Fall,2023,Blue,SAN YSIDRO
+City College,5397,Fall,2023,Transfer,EAST VILLAGE
+Civic Center,2377,Fall,2023,Transfer,CORE-COLUMBIA
+Clairemont Drive,298,Fall,2023,Blue,BAY PARK
+Convention Center,685,Fall,2023,Green,MARINA
+County Center/Little Italy,1644,Fall,2023,Transfer,HARBORVIEW
+Courthouse Station,834,Fall,2023,Orange,CORE-COLUMBIA
+E St,2259,Fall,2023,Blue,
+El Cajon,2314,Fall,2023,Transfer,
+Encanto/62nd St,1069,Fall,2023,Orange,ENCANTO
+Euclid Ave,2240,Fall,2023,Orange,CHOLLAS VIEW
+Executive Drive,1063,Fall,2023,Blue,UNIVERSITY CITY
+Fashion Valley,1844,Fall,2023,Green,MISSION VALLEY WEST
+Fenton Parkway,562,Fall,2023,Green,MISSION VALLEY EAST
+Fifth Ave,3683,Fall,2023,Transfer,CORE-COLUMBIA
+Gaslamp Quarter,1927,Fall,2023,Green,EAST VILLAGE
+Gillespie Field,210,Fall,2023,Copper,
+Grantville,1129,Fall,2023,Green,GRANTVILLE
+Grossmont,2059,Fall,2023,Transfer,
+H St,2844,Fall,2023,Blue,
+Harborside,1344,Fall,2023,Blue,BARRIO LOGAN
+Hazard Center,847,Fall,2023,Green,MISSION VALLEY EAST
+Iris Ave,4130,Fall,2023,Blue,OTAY MESA WEST
+La Mesa Blvd,804,Fall,2023,Orange,
+Lemon Grove Depot,1428,Fall,2023,Orange,
+Massachusetts Ave,493,Fall,2023,Orange,
+Middletown,418,Fall,2023,Transfer,MIDTOWN
+Mission San Diego,402,Fall,2023,Green,GRANTVILLE
+Mission Valley Center,922,Fall,2023,Green,MISSION VALLEY EAST
+Morena/Linda Vista,728,Fall,2023,Green,MORENA
+Nobel Drive,2047,Fall,2023,Blue,LA JOLLA
+Old Town,7294,Fall,2023,Transfer,OLD TOWN
+Pacific Fleet,754,Fall,2023,Blue,BARRIO LOGAN
+Palm Ave,2433,Fall,2023,Blue,PALM CITY
+Palomar St,5519,Fall,2023,Blue,
+Park/Market,3512,Fall,2023,Transfer,EAST VILLAGE
+Rio Vista,537,Fall,2023,Green,MISSION VALLEY EAST
+San Ysidro,13342,Fall,2023,Blue,BORDER
+Santa Fe Depot,2214,Fall,2023,Transfer,CORE-COLUMBIA
+Santee,1034,Fall,2023,Copper,
+SDSU,2692,Fall,2023,Green,COLLEGE WEST
+Seaport Village,617,Fall,2023,Green,MARINA
+Spring St,795,Fall,2023,Orange,
+Tecolote Road,542,Fall,2023,Blue,MORENA
+UCSD Central Campus,3258,Fall,2023,Blue,TORREY PINES
+UCSD Health La Jolla,838,Fall,2023,Blue,UNIVERSITY CITY
+UTC Station,1755,Fall,2023,Blue,UNIVERSITY CITY
+VA Medical Center,1018,Fall,2023,Blue,TORREY PINES
+Washington St,1014,Fall,2023,Transfer,MISSION HILLS
+Stadium Station,282,Fall,2023,Green,QUALCOMM
+12th/Imperial,12532,Spring,2024,Transfer,PETCO PARK
+12th/Imperial (Bayside),2703,Spring,2024,Transfer,PETCO PARK
+24th St,2467,Spring,2024,Blue,
+25th & Commercial,1080,Spring,2024,Orange,LOGAN HEIGHTS
+32nd & Commercial,739,Spring,2024,Orange,LOGAN HEIGHTS
+47th St,510,Spring,2024,Orange,LINCOLN PARK
+70th St,366,Spring,2024,Green,
+8th St,2032,Spring,2024,Blue,
+UCSD Health East,509,Spring,2024,Green,COLLEGE EAST
+Amaya Drive,520,Spring,2024,Transfer,
+America Plaza,2246,Spring,2024,Blue,CORE-COLUMBIA
+Arnele Ave,808,Spring,2024,Copper,
+Balboa Avenue,1255,Spring,2024,Blue,BAY PARK
+Barrio Logan,1574,Spring,2024,Blue,BARRIO LOGAN
+Beyer Blvd,2251,Spring,2024,Blue,SAN YSIDRO
+City College,5272,Spring,2024,Transfer,EAST VILLAGE
+Civic Center,2289,Spring,2024,Transfer,CORE-COLUMBIA
+Clairemont Drive,309,Spring,2024,Blue,BAY PARK
+Convention Center,649,Spring,2024,Green,MARINA
+County Center/Little Italy,1577,Spring,2024,Transfer,HARBORVIEW
+Courthouse Station,708,Spring,2024,Orange,CORE-COLUMBIA
+E St,2275,Spring,2024,Blue,
+El Cajon,2553,Spring,2024,Transfer,
+Encanto/62nd St,908,Spring,2024,Orange,ENCANTO
+Euclid Ave,2093,Spring,2024,Orange,CHOLLAS VIEW
+Executive Drive,1024,Spring,2024,Blue,UNIVERSITY CITY
+Fashion Valley,1706,Spring,2024,Green,MISSION VALLEY WEST
+Fenton Parkway,570,Spring,2024,Green,MISSION VALLEY EAST
+Fifth Ave,3475,Spring,2024,Transfer,CORE-COLUMBIA
+Gaslamp Quarter,1410,Spring,2024,Green,EAST VILLAGE
+Gillespie Field,413,Spring,2024,Copper,
+Grantville,1018,Spring,2024,Green,GRANTVILLE
+Grossmont,1900,Spring,2024,Transfer,
+H St,2821,Spring,2024,Blue,
+Harborside,1341,Spring,2024,Blue,BARRIO LOGAN
+Hazard Center,821,Spring,2024,Green,MISSION VALLEY EAST
+Iris Ave,4381,Spring,2024,Blue,OTAY MESA WEST
+La Mesa Blvd,752,Spring,2024,Orange,
+Lemon Grove Depot,1268,Spring,2024,Orange,
+Massachusetts Ave,466,Spring,2024,Orange,
+Middletown,401,Spring,2024,Transfer,MIDTOWN
+Mission San Diego,369,Spring,2024,Green,GRANTVILLE
+Mission Valley Center,824,Spring,2024,Green,MISSION VALLEY EAST
+Morena/Linda Vista,719,Spring,2024,Green,MORENA
+Nobel Drive,1818,Spring,2024,Blue,LA JOLLA
+Old Town,6874,Spring,2024,Transfer,OLD TOWN
+Pacific Fleet,763,Spring,2024,Blue,BARRIO LOGAN
+Palm Ave,2416,Spring,2024,Blue,PALM CITY
+Palomar St,5253,Spring,2024,Blue,
+Park/Market,3453,Spring,2024,Transfer,EAST VILLAGE
+Rio Vista,525,Spring,2024,Green,MISSION VALLEY EAST
+San Ysidro,12739,Spring,2024,Blue,BORDER
+Santa Fe Depot,2167,Spring,2024,Transfer,CORE-COLUMBIA
+Santee,741,Spring,2024,Copper,
+SDSU,2102,Spring,2024,Green,COLLEGE WEST
+Seaport Village,602,Spring,2024,Green,MARINA
+Spring St,787,Spring,2024,Orange,
+Tecolote Road,526,Spring,2024,Blue,MORENA
+UCSD Central Campus,3069,Spring,2024,Blue,TORREY PINES
+UCSD Health La Jolla,857,Spring,2024,Blue,UNIVERSITY CITY
+UTC Station,1563,Spring,2024,Blue,UNIVERSITY CITY
+VA Medical Center,891,Spring,2024,Blue,TORREY PINES
+Washington St,1012,Spring,2024,Transfer,MISSION HILLS
+Stadium Station,197,Spring,2024,Green,QUALCOMM
+12th/Imperial,11731,Summer,2024,Transfer,PETCO PARK
+12th/Imperial (Bayside),3544,Summer,2024,Transfer,PETCO PARK
+24th St,1866,Summer,2024,Blue,
+25th & Commercial,1095,Summer,2024,Orange,LOGAN HEIGHTS
+32nd & Commercial,726,Summer,2024,Orange,LOGAN HEIGHTS
+47th St,510,Summer,2024,Orange,LINCOLN PARK
+70th St,354,Summer,2024,Green,
+8th St,1638,Summer,2024,Blue,
+UCSD Health East,1254,Summer,2024,Green,COLLEGE EAST
+Amaya Drive,442,Summer,2024,Transfer,
+America Plaza,1608,Summer,2024,Blue,CORE-COLUMBIA
+Arnele Ave,800,Summer,2024,Copper,
+Balboa Avenue,1273,Summer,2024,Blue,BAY PARK
+Barrio Logan,1277,Summer,2024,Blue,BARRIO LOGAN
+Beyer Blvd,1555,Summer,2024,Blue,SAN YSIDRO
+City College,3638,Summer,2024,Transfer,EAST VILLAGE
+Civic Center,1659,Summer,2024,Transfer,CORE-COLUMBIA
+Clairemont Drive,332,Summer,2024,Blue,BAY PARK
+Convention Center,1597,Summer,2024,Green,MARINA
+County Center/Little Italy,2046,Summer,2024,Transfer,HARBORVIEW
+Courthouse Station,766,Summer,2024,Orange,CORE-COLUMBIA
+E St,1931,Summer,2024,Blue,
+El Cajon,2319,Summer,2024,Transfer,
+Encanto/62nd St,900,Summer,2024,Orange,ENCANTO
+Euclid Ave,1946,Summer,2024,Orange,CHOLLAS VIEW
+Executive Drive,504,Summer,2024,Blue,UNIVERSITY CITY
+Fashion Valley,2114,Summer,2024,Green,MISSION VALLEY WEST
+Fenton Parkway,578,Summer,2024,Green,MISSION VALLEY EAST
+Fifth Ave,2729,Summer,2024,Transfer,CORE-COLUMBIA
+Gaslamp Quarter,2295,Summer,2024,Green,EAST VILLAGE
+Gillespie Field,389,Summer,2024,Copper,
+Grantville,1231,Summer,2024,Green,GRANTVILLE
+Grossmont,1890,Summer,2024,Transfer,
+H St,2140,Summer,2024,Blue,
+Harborside,907,Summer,2024,Blue,BARRIO LOGAN
+Hazard Center,972,Summer,2024,Green,MISSION VALLEY EAST
+Iris Ave,3510,Summer,2024,Blue,OTAY MESA WEST
+La Mesa Blvd,718,Summer,2024,Orange,
+Lemon Grove Depot,1237,Summer,2024,Orange,
+Massachusetts Ave,483,Summer,2024,Orange,
+Middletown,440,Summer,2024,Transfer,MIDTOWN
+Mission San Diego,374,Summer,2024,Green,GRANTVILLE
+Mission Valley Center,879,Summer,2024,Green,MISSION VALLEY EAST
+Morena/Linda Vista,800,Summer,2024,Green,MORENA
+Nobel Drive,1641,Summer,2024,Blue,LA JOLLA
+Old Town,7255,Summer,2024,Transfer,OLD TOWN
+Pacific Fleet,686,Summer,2024,Blue,BARRIO LOGAN
+Palm Ave,2008,Summer,2024,Blue,PALM CITY
+Palomar St,3942,Summer,2024,Blue,
+Park/Market,3034,Summer,2024,Transfer,EAST VILLAGE
+Rio Vista,592,Summer,2024,Green,MISSION VALLEY EAST
+San Ysidro,13395,Summer,2024,Blue,BORDER
+Santa Fe Depot,2762,Summer,2024,Transfer,CORE-COLUMBIA
+Santee,711,Summer,2024,Copper,
+SDSU,1739,Summer,2024,Green,COLLEGE WEST
+Seaport Village,852,Summer,2024,Green,MARINA
+Spring St,750,Summer,2024,Orange,
+Tecolote Road,470,Summer,2024,Blue,MORENA
+UCSD Central Campus,1453,Summer,2024,Blue,TORREY PINES
+UCSD Health La Jolla,565,Summer,2024,Blue,UNIVERSITY CITY
+UTC Station,1619,Summer,2024,Blue,UNIVERSITY CITY
+VA Medical Center,809,Summer,2024,Blue,TORREY PINES
+Washington St,1020,Summer,2024,Transfer,MISSION HILLS
+Stadium Station,426,Summer,2024,Green,QUALCOMM
+12th/Imperial,10199,Fall,2024,Transfer,PETCO PARK
+12th/Imperial (Bayside),3074,Fall,2024,Transfer,PETCO PARK
+24th St,1874,Fall,2024,Blue,
+25th & Commercial,1099,Fall,2024,Orange,LOGAN HEIGHTS
+32nd & Commercial,674,Fall,2024,Orange,LOGAN HEIGHTS
+47th St,504,Fall,2024,Orange,LINCOLN PARK
+70th St,331,Fall,2024,Green,
+8th St,1678,Fall,2024,Blue,
+UCSD Health East,642,Fall,2024,Green,COLLEGE EAST
+Amaya Drive,538,Fall,2024,Transfer,
+America Plaza,1607,Fall,2024,Blue,CORE-COLUMBIA
+Arnele Ave,439,Fall,2024,Copper,
+Balboa Avenue,1367,Fall,2024,Blue,BAY PARK
+Barrio Logan,1241,Fall,2024,Blue,BARRIO LOGAN
+Beyer Blvd,1717,Fall,2024,Blue,SAN YSIDRO
+City College,4294,Fall,2024,Transfer,EAST VILLAGE
+Civic Center,1626,Fall,2024,Transfer,CORE-COLUMBIA
+Clairemont Drive,309,Fall,2024,Blue,BAY PARK
+Convention Center,616,Fall,2024,Green,MARINA
+County Center/Little Italy,1612,Fall,2024,Transfer,HARBORVIEW
+Courthouse Station,756,Fall,2024,Orange,CORE-COLUMBIA
+E St,1878,Fall,2024,Blue,
+El Cajon,3882,Fall,2024,Transfer,
+Encanto/62nd St,1083,Fall,2024,Orange,ENCANTO
+Euclid Ave,2230,Fall,2024,Orange,CHOLLAS VIEW
+Executive Drive,962,Fall,2024,Blue,UNIVERSITY CITY
+Fashion Valley,1979,Fall,2024,Green,MISSION VALLEY WEST
+Fenton Parkway,611,Fall,2024,Green,MISSION VALLEY EAST
+Fifth Ave,2762,Fall,2024,Transfer,CORE-COLUMBIA
+Gaslamp Quarter,800,Fall,2024,Green,EAST VILLAGE
+Gillespie Field,149,Fall,2024,Copper,
+Grantville,1040,Fall,2024,Green,GRANTVILLE
+Grossmont,1896,Fall,2024,Transfer,
+H St,2369,Fall,2024,Blue,
+Harborside,940,Fall,2024,Blue,BARRIO LOGAN
+Hazard Center,741,Fall,2024,Green,MISSION VALLEY EAST
+Iris Ave,3766,Fall,2024,Blue,OTAY MESA WEST
+La Mesa Blvd,774,Fall,2024,Orange,
+Lemon Grove Depot,1290,Fall,2024,Orange,
+Massachusetts Ave,446,Fall,2024,Orange,
+Middletown,398,Fall,2024,Transfer,MIDTOWN
+Mission San Diego,378,Fall,2024,Green,GRANTVILLE
+Mission Valley Center,859,Fall,2024,Green,MISSION VALLEY EAST
+Morena/Linda Vista,666,Fall,2024,Green,MORENA
+Nobel Drive,2249,Fall,2024,Blue,LA JOLLA
+Old Town,7323,Fall,2024,Transfer,OLD TOWN
+Pacific Fleet,637,Fall,2024,Blue,BARRIO LOGAN
+Palm Ave,2096,Fall,2024,Blue,PALM CITY
+Palomar St,3963,Fall,2024,Blue,
+Park/Market,2983,Fall,2024,Transfer,EAST VILLAGE
+Rio Vista,504,Fall,2024,Green,MISSION VALLEY EAST
+San Ysidro,13683,Fall,2024,Blue,BORDER
+Santa Fe Depot,2117,Fall,2024,Transfer,CORE-COLUMBIA
+Santee,725,Fall,2024,Copper,
+SDSU,2656,Fall,2024,Green,COLLEGE WEST
+Seaport Village,504,Fall,2024,Green,MARINA
+Spring St,829,Fall,2024,Orange,
+Tecolote Road,513,Fall,2024,Blue,MORENA
+UCSD Central Campus,4510,Fall,2024,Blue,TORREY PINES
+UCSD Health La Jolla,896,Fall,2024,Blue,UNIVERSITY CITY
+UTC Station,2287,Fall,2024,Blue,UNIVERSITY CITY
+VA Medical Center,800,Fall,2024,Blue,TORREY PINES
+Washington St,1013,Fall,2024,Transfer,MISSION HILLS
+Stadium Station,140,Fall,2024,Green,QUALCOMM
+12th/Imperial,10330,Spring,2025,Transfer,PETCO PARK
+12th/Imperial (Bayside),3215,Spring,2025,Transfer,PETCO PARK
+24th St,1876,Spring,2025,Blue,
+25th & Commercial,992,Spring,2025,Orange,LOGAN HEIGHTS
+32nd & Commercial,755,Spring,2025,Orange,LOGAN HEIGHTS
+47th St,502,Spring,2025,Orange,LINCOLN PARK
+70th St,350,Spring,2025,Green,
+8th St,1558,Spring,2025,Blue,
+UCSD Health East,579,Spring,2025,Green,COLLEGE EAST
+Amaya Drive,465,Spring,2025,Transfer,
+America Plaza,1531,Spring,2025,Blue,CORE-COLUMBIA
+Arnele Ave,350,Spring,2025,Copper,
+Balboa Avenue,1285,Spring,2025,Blue,BAY PARK
+Barrio Logan,1183,Spring,2025,Blue,BARRIO LOGAN
+Beyer Blvd,1610,Spring,2025,Blue,SAN YSIDRO
+City College,4161,Spring,2025,Transfer,EAST VILLAGE
+Civic Center,1564,Spring,2025,Transfer,CORE-COLUMBIA
+Clairemont Drive,302,Spring,2025,Blue,BAY PARK
+Convention Center,605,Spring,2025,Green,MARINA
+County Center/Little Italy,1539,Spring,2025,Transfer,HARBORVIEW
+Courthouse Station,769,Spring,2025,Orange,CORE-COLUMBIA
+E St,1864,Spring,2025,Blue,
+El Cajon,3734,Spring,2025,Transfer,
+Encanto/62nd St,993,Spring,2025,Orange,ENCANTO
+Euclid Ave,2171,Spring,2025,Orange,CHOLLAS VIEW
+Executive Drive,811,Spring,2025,Blue,UNIVERSITY CITY
+Fashion Valley,1879,Spring,2025,Green,MISSION VALLEY WEST
+Fenton Parkway,568,Spring,2025,Green,MISSION VALLEY EAST
+Fifth Ave,2546,Spring,2025,Transfer,CORE-COLUMBIA
+Gaslamp Quarter,1024,Spring,2025,Green,EAST VILLAGE
+Gillespie Field,117,Spring,2025,Copper,
+Grantville,981,Spring,2025,Green,GRANTVILLE
+Grossmont,1801,Spring,2025,Transfer,
+H St,2212,Spring,2025,Blue,
+Harborside,892,Spring,2025,Blue,BARRIO LOGAN
+Hazard Center,816,Spring,2025,Green,MISSION VALLEY EAST
+Iris Ave,3586,Spring,2025,Blue,OTAY MESA WEST
+La Mesa Blvd,776,Spring,2025,Orange,
+Lemon Grove Depot,1302,Spring,2025,Orange,
+Massachusetts Ave,498,Spring,2025,Orange,
+Middletown,387,Spring,2025,Transfer,MIDTOWN
+Mission San Diego,366,Spring,2025,Green,GRANTVILLE
+Mission Valley Center,718,Spring,2025,Green,MISSION VALLEY EAST
+Morena/Linda Vista,691,Spring,2025,Green,MORENA
+Nobel Drive,1968,Spring,2025,Blue,LA JOLLA
+Old Town,7068,Spring,2025,Transfer,OLD TOWN
+Pacific Fleet,543,Spring,2025,Blue,BARRIO LOGAN
+Palm Ave,2014,Spring,2025,Blue,PALM CITY
+Palomar St,3822,Spring,2025,Blue,
+Park/Market,2913,Spring,2025,Transfer,EAST VILLAGE
+Rio Vista,498,Spring,2025,Green,MISSION VALLEY EAST
+San Ysidro,13372,Spring,2025,Blue,BORDER
+Santa Fe Depot,2186,Spring,2025,Transfer,CORE-COLUMBIA
+Santee,632,Spring,2025,Copper,
+SDSU,2307,Spring,2025,Green,COLLEGE WEST
+Seaport Village,597,Spring,2025,Green,MARINA
+Spring St,811,Spring,2025,Orange,
+Tecolote Road,523,Spring,2025,Blue,MORENA
+UCSD Central Campus,3569,Spring,2025,Blue,TORREY PINES
+UCSD Health La Jolla,859,Spring,2025,Blue,UNIVERSITY CITY
+UTC Station,2004,Spring,2025,Blue,UNIVERSITY CITY
+VA Medical Center,837,Spring,2025,Blue,TORREY PINES
+Washington St,1071,Spring,2025,Transfer,MISSION HILLS
+Stadium Station,210,Spring,2025,Green,QUALCOMM
